@@ -2,6 +2,5 @@
 
 ### Juan Vitale - Full Stack Developer
 
-Contacto: juanvitan@gmail.com
-
-LinkedIn: www.linkedin.com/in/juanvitaletec
+<a href="mailto:juanvitan@gmail.com">Contacto</a>
+<a href="www.linkedin.com/in/juanvitaletec">LinkedIn</a>
