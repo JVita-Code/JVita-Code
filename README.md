@@ -1,6 +1,6 @@
 
 
-### Juan Vitale - Full Stack Developer
+### Juan Vitale - Full Stack Developer - .NET Dev
 
 <a href="mailto:juanvitan@gmail.com">Contacto</a>
 
